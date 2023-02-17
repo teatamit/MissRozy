@@ -16,7 +16,7 @@ class Config(object):
 	BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False))
 	LAZY_CHANNEL = int(os.environ.get('LAZY_CHANNEL','-1001106142348'))
 	LAZY_MODE = bool(os.environ.get("LAZY_MODE", False))
-	LAZY_PIC = os.environ.get("LAZY_PIC", "https://te.legra.ph/file/b3fecf5879152a6ec6590.jpg")
+	LAZY_PIC = os.environ.get("LAZY_PIC", "https://telegra.ph/file/1288a5ea48648357235c0.jpg")
 	LP_BTN_MAIN_CH_USRNM = os.environ.get("LP_BTN_MAIN_CH_USRNM", "filestoremain")
 	LP_CHANNEL_USRNM = os.environ.get("LP_CHANNEL_USRNM", "filestoremain")
 	LPCH_ADMIN_USRMN = os.environ.get("LPCH_ADMIN_USRMN", "ajak4405")
