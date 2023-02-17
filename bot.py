@@ -332,7 +332,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                             url="https://github.com/ajak4405/MissRozy")
+                                             url="https://t.me/anumitultrabots")
                     ],
                     [
                         InlineKeyboardButton("GФ HФMΞ", callback_data="gotohome"),
@@ -350,7 +350,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                             url="https://github.com/ajak4405/MissRozy")
+                                             url="https://t.me/anumitultrabots")
                     ],
                     [
                         InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),

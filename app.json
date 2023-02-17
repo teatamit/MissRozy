@@ -2,7 +2,7 @@
   "name": "Telegram Files Store Bot",
   "description": "A Telegram Files Store Bot in Pyrogram by @ajak4405",
   "keywords": ["telegram", "files", "store", "bot"],
-  "repository": "https://github.com/ajak4405/MissRozy",
+  "repository": "https://t.me/anumitultrabots",
   "website": "https://telegram.dog/ajak4405",
   "success_url": "https://t.me/ajak4405",
   "env": {
