@@ -1,4 +1,4 @@
-# (c) @LazyDeveloperr
+# (c) @ajak4405
 
 import time
 import string

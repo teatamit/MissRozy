@@ -4,10 +4,10 @@
 <h1 align="center">
   <b>Miss Rozy : A Permanent file Store BOT</b>
 </h1>
-<p>I am the first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The LazyDeveloperr. </p>
+<p>I am the first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The ajak4405. </p>
 
 ### `Miss Rozy` : Give her a STAR ⭐️
-I am hte first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The [LazyDeveloperr](https://github.com/LazyDeveloperr).<b>So Copy pasters -> Must give credit to [LazyDeveloperr](https://github.com/LazyDeveloperr) else 🖕<b/>
+I am hte first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The [ajak4405](https://github.com/ajak4405).<b>So Copy pasters -> Must give credit to [ajak4405](https://github.com/ajak4405) else 🖕<b/>
 
 ## Commands:
 
@@ -63,18 +63,18 @@ I am hte first permanent file store with Automatic thumbnail extracting + Automa
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Rtjyz3lEZwE)
 
 ### Deploy Now:
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/MissRozy&branch=main&name=missrozybot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/ajak4405/MissRozy&branch=main&name=missrozybot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Rtjyz3lEZwE)
 
 ### Support Group:
-<a href="https://telegram.me/LazyDeveloperSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.me/anumitultrabots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/LazyDeveloperr"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/ajak4405"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/LazyDeveloperr"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/ajak4405"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
 
 ### Demo Bot:
@@ -82,9 +82,9 @@ I am hte first permanent file store with Automatic thumbnail extracting + Automa
 
 	
 ##🌟Credits
-- 🔥Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `LAZY_MODE` (an advance feature.)
-- ⚡️Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for `FIXING ERRORS` and adding extra veriables.
-- ❤️Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for your contribution & also thank you for helping us in our journey
+- 🔥Thank you [anumitultrabots](https://github.com/ajak4405) for adding `LAZY_MODE` (an advance feature.)
+- ⚡️Thank you [anumitultrabots](https://github.com/ajak4405) for `FIXING ERRORS` and adding extra veriables.
+- ❤️Thank you [anumitultrabots](https://github.com/ajak4405) for your contribution & also thank you for helping us in our journey
 
 
 * **Language:** [Python3](https://www.python.org)
