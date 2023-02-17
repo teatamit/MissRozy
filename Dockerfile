@@ -1,10 +1,11 @@
-FROM ubuntu:18.04
-
-ENV DEBIAN_FRONTEND=noninteractive
+FROM python:3.9
 
 WORKDIR /app
 
+COPY requirements.txt /app/
+
 RUN pip3 install -r requirements.txt
 
-CMD ["python3", "bot.py"]
+COPY . /app
 
+CMD python3 bot.py
