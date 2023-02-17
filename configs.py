@@ -38,7 +38,7 @@ class Config(object):
 
 🧑🏻‍💻 **DΞVΞLФPΞЯ:** [AJAKHAR](https://t.me/ajak4405)
 
-👥 **šupp⊕r† gr⊕up:** [LazY-SupP⊕ЯΓ](https://t.me/anumitultrabots)
+👥 **šupp⊕r† gr⊕up:** [ULTRA BOTS](https://t.me/anumitultrabots)
 
 📢 **U͢p͢d͢a͢t͢e͢s͢ C͢h͢a͢n͢n͢e͢l͢:** [ULTRA BOTS](https://t.me/anumitultrabots)
 """
